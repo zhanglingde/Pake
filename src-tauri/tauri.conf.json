@@ -1,11 +1,11 @@
 {
-  "productName": "WeRead",
-  "identifier": "com.pake.weread",
+  "productName": "dida",
+  "identifier": "com.pake.dida",
   "version": "1.0.0",
   "app": {
     "withGlobalTauri": true,
     "trayIcon": {
-      "iconPath": "png/weread_512.png",
+      "iconPath": "png/Dida.png",
       "iconAsTemplate": false,
       "id": "pake-tray"
     }
